@@ -5,7 +5,7 @@
       <div class="heading heading--normal">Your Go-To Platform to</div>
       <div class="heading mar__b--2">Network with Monash Talent</div>
       <div class="body home__subtitle mar__t--2 mar__b--2">
-        LOOK no further if you need to find others within the Monash SOIT Community with whom you can team up,
+        looklooklook no further if you need to find others within the Monash SOIT Community with whom you can team up,
         seek guidance or JUST simply say HI. We aim to make it easier to find people to join you on your unique
         adventures.
       </div>
